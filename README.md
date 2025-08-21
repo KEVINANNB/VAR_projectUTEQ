@@ -1,2 +1,2 @@
 # VAR_projectUTEQ
-Sistema de detección de GOL usando dos cámaras HT-SUA33GC-T1V-C
+Construir un sistema VAR capaz de determinar, en tiempo casi real, si un balón de fútbol cruzó completamente la línea de gol para una portería específica usando la cámara HT-SUA33GC-T1V-C, con una tasa de decisión correcta ≥ X% (definir) y latencia de decisión ≤ Y ms (definir).
